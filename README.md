@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antongigele
 - 👀 I’m interested in solving algorithmic challenges with different programming languages
-- 🌱 I’m currently learning Python, apps script, web development, etc
+- 🌱 I’m currently learning rust, apps script, web development, etc
 - 💞️ I’m looking to collaborate on web development, automation and machine learning
 - 📫 How to reach me: https://www.linkedin.com/in/anton-gigele-365928199/
 
